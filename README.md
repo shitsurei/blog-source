@@ -7,8 +7,9 @@
 * npm：11.0.0
 
 ## 文档
-1. [官方](https://hexo.io/zh-cn/docs/)
-2. [CSDN个人搭建](https://blog.csdn.net/bbsyi/article/details/119101852)
+1. [hexo官方](https://hexo.io/zh-cn/docs/)
+2. [nexT官方](http://theme-next.iissnan.com/getting-started.html)
+3. [CSDN个人搭建](https://blog.csdn.net/bbsyi/article/details/119101852)
 
 ## hexo常用命令
 ```shell
